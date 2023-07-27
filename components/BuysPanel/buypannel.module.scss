@@ -1,0 +1,9 @@
+.card{
+    border: 2px solid goldenrod;
+    padding: 4px 20px;
+}
+.card:hover{
+    background-color: goldenrod;
+    transition: .2s;
+    color: aliceblue;
+}
